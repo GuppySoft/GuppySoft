@@ -36,4 +36,4 @@ He diseñado y liderado el desarrollo de un ecosistema integral (ERP/OMS) enfoca
 
 
 ---
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LucianoBertelli&show_icons=true&theme=tokyonight)
