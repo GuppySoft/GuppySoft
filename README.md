@@ -34,6 +34,3 @@ He diseñado y liderado el desarrollo de un ecosistema integral (ERP/OMS) enfoca
 ## 📫 Conecta conmigo:
 - [LinkedIn] www.linkedin.com/in/luciano-bertelli-8b8344405
 
-
----
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=LucianoBertelli&show_icons=true&theme=tokyonight)
