@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hola, soy Luciano Bertelli 👋
 
-<!--
-**GuppySoft/GuppySoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Architect | Fintech & E-commerce Expert | Python Specialist
 
-Here are some ideas to get you started:
+Apasionado por transformar problemas operativos complejos en soluciones de software escalables. Mi enfoque no es solo escribir código, sino diseñar herramientas que garanticen el **Retorno de Inversión (ROI)** mediante la automatización y la integridad de los datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack Tecnológico
+
+- **Backend:** Python (Flask, REST APIs, Webhooks)
+- **Data Science & Analytics:** Pandas, NumPy, XGBoost (Predictive Stock Modeling)
+- **Databases:** MySQL, SQLAlchemy (Optimización de consultas y arquitectura relacional)
+- **Integraciones:** WooCommerce API, Mercado Pago, Clover, Print Bridges (Silent Printing)
+- **Tools:** Git, Linux, XAMPP, Batch Processing
+
+---
+
+## 🦊 Proyecto Principal: GuppySoft
+
+He diseñado y liderado el desarrollo de un ecosistema integral (ERP/OMS) enfocado en resolver cuellos de botella críticos:
+
+- **Fintech Engine:** Motor de conciliación automática que procesa reportes PDF/XLSX para detectar errores de liquidación y retenciones impositivas.
+- **E-commerce Bridge:** Sincronización masiva de catálogos en WooCommerce con lógica de variaciones jerárquicas y manejo de alta latencia.
+- **AI Inventory:** Implementación de modelos predictivos para la optimización de cadena de suministro.
+
+---
+
+## 💡 Filosofía de Trabajo
+"El software debe ser el puente, nunca el obstáculo". Mi formación como desarrollador autodidacta me ha dado una capacidad única para la resolución de problemas "fuera de la caja" y una velocidad de aprendizaje que aplico en cada arquitectura que diseño.
+
+---
+
+## 📫 Conecta conmigo:
+- [LinkedIn] www.linkedin.com/in/luciano-bertelli-8b8344405
+
+
+---
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
